@@ -11,8 +11,8 @@ Transactions manager
 Game stats
 Order email notification
 
-#Module
+#Module >
 Jackpot module
 
-#Plugin
+#Plugin >
 BTCPay payment plugin
